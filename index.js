@@ -8,5 +8,7 @@ const difference = today - yearsBirth;
 const result = difference;
 
 
-console.log(`Bonjour Mr ${name} , vous avez ${result}`);
+// console.log(`Bonjour Mr ${name} , vous avez ${result}`);
+console.log(document);
+
 
